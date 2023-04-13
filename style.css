@@ -1,0 +1,8 @@
+.btn-primary {
+    background-color: black;
+}
+
+#footer {
+    background: rgb(195,34,178);
+    background: radial-gradient(circle, rgba(195,34,178,1) 0%, rgba(163,45,253,0.52) 100%);
+}   
